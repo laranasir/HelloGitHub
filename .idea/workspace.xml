@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ccaa8c0-772d-465d-9113-9074c70a58ac" name="Changes" comment="">
+    <list default="true" id="3ccaa8c0-772d-465d-9113-9074c70a58ac" name="Changes" comment="HelloWorld">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -29,10 +32,69 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7,
-  &quot;fromUser&quot;: false
-}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7071067811865475" />
+      <entry key="MS500" value="0.9330329915368074" />
+      <entry key="S2" value="0.9828205985452511" />
+      <entry key="S5" value="0.9930924954370359" />
+      <entry key="S10" value="0.9965402628278678" />
+      <entry key="S30" value="0.9988454217380301" />
+      <entry key="S60" value="0.9994225441413808" />
+      <entry key="M2" value="0.9997112303767427" />
+      <entry key="M5" value="0.9998844821426083" />
+      <entry key="M10" value="0.9999422394031608" />
+      <entry key="M15" value="0.9999614925647325" />
+      <entry key="M30" value="0.9999807460970099" />
+      <entry key="H1" value="0.9999903730021654" />
+      <entry key="H2" value="0.9999951864894978" />
+      <entry key="H4" value="0.9999975932418527" />
+      <entry key="D1" value="0.9999995988732399" />
+      <entry key="W1" value="0.9999999426961673" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
   <component name="ProjectId" id="3LnMokfcTi09EP2H25rut6jBj07" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,6 +112,10 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/laranasir/Desktop/HelloGitHub/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel",
@@ -76,6 +142,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HelloWorld" />
+    <option name="LAST_COMMIT_MESSAGE" value="HelloWorld" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

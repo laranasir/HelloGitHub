@@ -4,6 +4,7 @@ void main()
 {
   //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
   // to see how IntelliJ IDEA suggests fixing it.
+  IO.println("Hello from the original IntelliJ project!");
   IO.println("Ændring fra kopien, som skaber konflikt!");
 
   for (int i = 1; i <= 5; i++)
